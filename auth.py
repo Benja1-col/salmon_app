@@ -81,19 +81,19 @@ def mostrar_menu_administrador():
         else:
             print("Opción inválida.")
 
-# Función auxiliar para registrar pedidos (puedes moverla a otro archivo)
+# Función auxiliar para registrar pedidos
 def registrar_pedido():
     print("Función para registrar pedido aún no implementada.")
 
-# Función auxiliar para ver pedidos (puedes moverla a otro archivo)
+# Función auxiliar para ver pedidos
 def ver_pedidos():
     print("Función para ver pedidos aún no implementada.")
 
-# Función auxiliar para editar stock (puedes moverla a otro archivo)
+# Función auxiliar para editar stock
 def editar_stock():
     print("Función para editar stock aún no implementada.")
 
-# Función auxiliar para generar reporte de ganancias (puedes moverla a otro archivo)
+# Función auxiliar para generar reporte de ganancias
 def reporte_ganancias():
     print("Función para mostrar reporte de ganancias aún no implementada.")
 
