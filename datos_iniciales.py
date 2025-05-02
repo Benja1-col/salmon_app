@@ -13,7 +13,7 @@ def cargar_datos():
         ])
         print("Usuarios insertados.")
     else:
-        print("ℹ️ Usuarios ya existen. No se insertaron.")
+        print("Usuarios ya existen. No se insertaron.")
 
     # Colección de salmones (stock)
     salmones = db.salmones
@@ -25,7 +25,7 @@ def cargar_datos():
         ])
         print("Stock inicial de salmones insertado.")
     else:
-        print("ℹ️ El stock ya fue insertado anteriormente.")
+        print("El stock ya fue insertado anteriormente.")
 
 if __name__ == "__main__":
     cargar_datos()
