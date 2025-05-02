@@ -65,7 +65,7 @@ def mostrar_menu_administrador():
         else:
             print("Opción inválida.")
 
-# Funciones auxiliares (a implementar en archivos separados preferiblemente)
+# Funciones auxiliares
 def registrar_pedido():
     print("Función para registrar pedido aún no implementada.")
 
